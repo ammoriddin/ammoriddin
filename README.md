@@ -8,8 +8,7 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 
 - :computer: I'm currently learning on front-end
 - :hourglass_flowing_sand:  front-end & beck-end learning
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+- :muscle: I like football & tennis
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 
