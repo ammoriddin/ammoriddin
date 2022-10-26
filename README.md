@@ -1,4 +1,4 @@
-<h1 align="center">Xamidullayev - The Frontend Master - Ammoriddin</h1>
+<h1 align="center">Xamidullayev - The Frontend Dev - Ammoriddin</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
