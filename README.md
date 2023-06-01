@@ -91,6 +91,5 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 ![Image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![Image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Image](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ammoriddin&show_icons=true&theme=gotham" alt="ammoriddin" />
