@@ -14,8 +14,5 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 
 <h2>Basics</h2>
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ammoriddin&show_icons=true&theme=gotham" alt="ammoriddin" />
