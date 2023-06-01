@@ -42,12 +42,12 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 
 ![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Image](https://img.shields.io/badge/VueX-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Image](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <h4>JS Framework</h4>
 
+![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Image](https://img.shields.io/badge/EXPRESS-white?style=for-the-badge&logo=express&logoColor=black)
 
