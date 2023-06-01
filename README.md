@@ -18,7 +18,7 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 
 ![Image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Image](https://img.shields.io/badge/Tailwand CSS-0081CB?style=for-the-badge&logo=tailwand-css&logoColor=white)
+![Image](https://img.shields.io/badge/Tailwand--CSS-0081CB?style=for-the-badge&logo=tailwand-css&logoColor=white)
 
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
