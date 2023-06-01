@@ -24,6 +24,10 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 ![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<h4>Metodologies</h4>
+
+![Image](https://img.shields.io/badge/BEM-fff?style=for-the-badge&logo=bem&logoColor=000)
+
 <h4>Programming languages</h4>
 
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -51,20 +55,31 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 <h4>Module bundle</h4>
 
 ![Image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Image](https://img.shields.io/badge/Esbuild-191919?style=for-the-badge&logo=esbuild&logoColor=#FFCF00)
 
 <h4>Artificial Intelligence</h4>
 
 ![Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<h4>Tools</h4>
 
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h4>JSON</h4>
+
+![Image](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=#FFCF00)
+![Image](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=#FFCF00)
+
+
+<h4>Programs and ToolsTools</h4>
+
+![Image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Image](https://img.shields.io/badge/Prettier-fff?style=for-the-badge&logo=Prettier&logoColor=1a2b34)
 ![Image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Image](https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Image](https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=black)
+
 
 <h4>I'm learning now</h4>
 
