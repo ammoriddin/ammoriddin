@@ -68,7 +68,7 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 ![Image](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=#FFCF00)
 
 
-<h4>Programs and ToolsTools</h4>
+<h4>Programs and Tools</h4>
 
 ![Image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Image](https://img.shields.io/badge/Prettier-fff?style=for-the-badge&logo=Prettier&logoColor=1a2b34)
