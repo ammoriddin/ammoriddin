@@ -102,11 +102,11 @@ Bellissimo pizza: https://xami-pizza.netlify.app/
 Glozza hotel: https://xami-glozza.netlify.app/
 
 <h4>Mohirdev templates</h4>
-N24: https://xami-n24.netlify.app/
-Aplle Watch: https://xami-watch.netlify.app/
-Countries: https://xami-countries.netlify.app/
-Job listings: https://xami-job-listings.netlify.app/
-Cofe roasters: https://xami-coffe-roasters.netlify.app/
+N24: https://xami-n24.netlify.app/ <br>
+Aplle Watch: https://xami-watch.netlify.app/ <br>
+Countries: https://xami-countries.netlify.app/ <br>
+Job listings: https://xami-job-listings.netlify.app/ <br>
+Cofe roasters: https://xami-coffe-roasters.netlify.app/ <br>
 Fortnite cards (api): https://xami-fortnite-cards.netlify.app/
 
 <h2>Addition</h2>
