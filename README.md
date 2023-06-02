@@ -79,7 +79,7 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Image](https://img.shields.io/badge/Trello-0052CC?style=for-the-baadge&logo=trello&logoColor=white)
 
 <h4>I'm learning now</h4>
 
@@ -92,4 +92,24 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm 
 ![Image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+<h2>My projects</h2>
+
+<h4>Fast food site</h4>
+Bellissimo pizza: https://xami-pizza.netlify.app/
+
+<h4>Hotel site</h4>
+Glozza hotel: https://xami-glozza.netlify.app/
+
+<h4>Mohirdev templates</h4>
+N24: https://xami-n24.netlify.app/
+Aplle Watch: https://xami-watch.netlify.app/
+Countries: https://xami-countries.netlify.app/
+Job listings: https://xami-job-listings.netlify.app/
+Cofe roasters: https://xami-coffe-roasters.netlify.app/
+Fortnite cards (api): https://xami-fortnite-cards.netlify.app/
+
+<h2>Addition</h2>
+<p>I don't have many projects, part of them is gone, not all of them, but 1 out of 3. Some sites are not responsive because I did it when I was studying on Mohirdev platform</p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ammoriddin&show_icons=true&theme=gotham" alt="ammoriddin" />
