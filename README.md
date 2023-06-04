@@ -101,6 +101,9 @@ Bellissimo pizza: https://xami-pizza.netlify.app/
 <h4>Hotel site</h4>
 Glozza hotel: https://xami-glozza.netlify.app/
 
+<h4>AI</h4>
+Face Ai: https://xami-face-ai.netlify.app/
+
 <h4>Mohirdev templates</h4>
 N24: https://xami-n24.netlify.app/ <br>
 Aplle Watch: https://xami-watch.netlify.app/ <br>
