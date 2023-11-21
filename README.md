@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 12 years old. I'm from Uzbekistan</br>
+I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm from Uzbekistan</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
