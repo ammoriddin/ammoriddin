@@ -1,14 +1,14 @@
-<h1 align="center">Xamidullayev - The Frontend Dev - Ammoriddin</h1>
+<h1 align="center">Xamidullayev - Frontend Dev - Ammoriddin</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm from Uzbekistan</br>
-  
+My name's Ammoriddin but my nickname's KhamiDev or Khamidullayev so I'm coming for 14 years old and i'm front-end developer right now
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning on front-end
+- :computer: I'm currently learning on fullstack
 - :hourglass_flowing_sand:  front-end & beck-end learning
-- :muscle: I like football & tennis
+- :muscle: I like football ⚽ & volleyball 🏐
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 
@@ -16,13 +16,16 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm 
 
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <h4>CSS Frameworks</h4>
 
 ![Image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <h4>Metodologies</h4>
 
@@ -31,7 +34,6 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm 
 <h4>Programming languages</h4>
 
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h4>Package managers</h4>
 
@@ -42,25 +44,11 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm 
 
 ![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Image](https://img.shields.io/badge/VueX-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Image](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <h4>JS Framework</h4>
 
-![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Image](https://img.shields.io/badge/EXPRESS-white?style=for-the-badge&logo=express&logoColor=black)
-
-
-<h4>Module bundle</h4>
-
-![Image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Image](https://img.shields.io/badge/Esbuild-191919?style=for-the-badge&logo=esbuild&logoColor=#FFCF00)
-
-<h4>Artificial Intelligence</h4>
-
-![Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 
 <h4>JSON</h4>
 
@@ -84,6 +72,7 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm 
 <h4>I'm learning now</h4>
 
 ![Image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,14 +84,23 @@ I am  Xamidullayev Ammoriddin. I am a front-end Developer.I'm 13 years old. I'm 
 
 <h2>My projects</h2>
 
+<h4>Real projects</h4>
+Cyber bro open source report system: https://khreport-me.netlify.app
+
 <h4>Fast food site</h4>
-Bellissimo pizza: https://xami-pizza.netlify.app/
+Bellissimo pizza: https://xami-pizza.netlify.app
 
 <h4>Hotel site</h4>
-Glozza hotel: https://xami-glozza.netlify.app/
+Glozza hotel: https://xami-glozza.netlify.app
 
 <h4>AI</h4>
-Face Ai: https://xami-face-ai.netlify.app/
+Face Ai: https://xami-face-ai.netlify.app
+
+<h4>Games</h4>
+CS:GO: https://xami-csgo.netlify.app
+
+<h4>Clones</h4>
+YouTube: https://khamidev-yt-clone.netlify.app
 
 <h4>Mohirdev templates</h4>
 N24: https://xami-n24.netlify.app/ <br>
