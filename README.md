@@ -86,31 +86,9 @@ My name's Ammoriddin but my nickname's KhamiDev or Khamidullayev so I'm coming f
 
 <h4>Real projects</h4>
 Cyber bro open source report system: https://khreport-me.netlify.app
+CYOP - Create - Your - Own - Portfolio: https://eze-create.netlify.app
 
 <h4>Fast food site</h4>
 Bellissimo pizza: https://xami-pizza.netlify.app
-
-<h4>Hotel site</h4>
-Glozza hotel: https://xami-glozza.netlify.app
-
-<h4>AI</h4>
-Face Ai: https://xami-face-ai.netlify.app
-
-<h4>Games</h4>
-CS:GO: https://xami-csgo.netlify.app
-
-<h4>Clones</h4>
-YouTube: https://khamidev-yt-clone.netlify.app
-
-<h4>Mohirdev templates</h4>
-N24: https://xami-n24.netlify.app/ <br>
-Aplle Watch: https://xami-watch.netlify.app/ <br>
-Countries: https://xami-countries.netlify.app/ <br>
-Job listings: https://xami-job-listings.netlify.app/ <br>
-Cofe roasters: https://xami-coffe-roasters.netlify.app/ <br>
-Fortnite cards (api): https://xami-fortnite-cards.netlify.app/
-
-<h2>Addition</h2>
-<p>I don't have many projects, part of them is gone, not all of them, but 1 out of 3. Some sites are not responsive because I did it when I was studying on Mohirdev platform</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ammoriddin&show_icons=true&theme=gotham" alt="ammoriddin" />
