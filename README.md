@@ -86,7 +86,9 @@ My name's Ammoriddin but my nickname's KhamiDev or Khamidullayev so I'm coming f
 
 <h4>Real projects</h4>
 Cyber bro open source report system: https://khreport-me.netlify.app <br />
-CYOP - Create - Your - Own - Portfolio: https://eze-create.netlify.app
+CYOP - Create - Your - Own - Portfolio: https://eze-create.netlify.app <br />
+GET-Pro: https://get-pro.netlify.app <br />
+Reklama-Uz: https://reklama-khamidullayev.netlify.app
 
 <h4>Fast food site</h4>
 Bellissimo pizza: https://xami-pizza.netlify.app
